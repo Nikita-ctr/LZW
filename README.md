@@ -1,4 +1,6 @@
 # LZW
+
+Basic implementation of the LZW compression algorithm
 ### Short description:
  * Dictionary - Initialization of a basic dictionary containing Cyrillic, Latin, numbers and special characters, then the Dictionary class is added to the LZW class as a dependency.
  * FileUtils - Utility class for working with files:
